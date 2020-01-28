@@ -1,0 +1,9 @@
+docx-template/
+__pycache__
+.Python
+bin
+include
+lib
+*.doc*
+*json
+*.pem
