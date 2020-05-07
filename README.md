@@ -32,7 +32,7 @@ This repository does not include ```token.json``` and ```credentials.json``` fro
 * <a href = 'https://pypi.org/project/EZGmail/'>EZGmail</a> - Gmail SMTP
 
 ## Cloud
-Amazon Debian Web Server
+Amazon Debian Web Server using EC2
 
 ## Acknowledgements
 Phil for mentoring and guiding me for my first large project.
