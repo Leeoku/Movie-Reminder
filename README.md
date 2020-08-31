@@ -4,9 +4,14 @@ This is a unique problem for a unique individual. There are two solutions catalo
 
 ### docxcleaner.py
 Built to return a (semi) clean list of movies from an originally hand-crafted, botique, docx. 
+![Alt text](/cleaned-movies.png "Cleaned movies")
 
 ### main.py 
 Built to grab the videos shown today via TMC.com for recording. The movies are then compared to the clean list of movies returning a final list of movies to record. This is hosted on Amazon AWS using CRON to run main.py daily and notifies the user via email.
+
+### Sample image:
+An example of what the use
+![Alt text](/movie-reminder-sample.png "Sample Image")
 
 ## Quickstart
 
