@@ -1,3 +1,5 @@
+![Alt text](/moviereminder.png "Title")
+
 # Custom movie parser for TheMovieChannel!
 
 This is a unique problem for a unique individual. There are two solutions catalogued in this repo:
