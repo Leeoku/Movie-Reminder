@@ -12,7 +12,7 @@ Built to return a (semi) clean list of movies from an originally hand-crafted, b
 Built to grab the videos shown today via TMC.com for recording. The movies are then compared to the clean list of movies returning a final list of movies to record. This is hosted on Amazon AWS using CRON to run main.py daily and notifies the user via email.
 
 ### Sample image:
-An example of what the use
+An example of what the email the user receives everyday.
 ![Alt text](/movie-reminder-sample.png "Sample Image")
 
 ## Quickstart
